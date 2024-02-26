@@ -10,7 +10,7 @@ Minishell is a simple UNIX command interpreter written in C that replicates the 
 - Builtins: `echo`, `cd`, `pwd`, `export`, `unset`, `env`, `exit`
 - Signal handling (`Ctrl-C`, `Ctrl-D`, `Ctrl-\`) to mimic bash behavior
 - Environment variable expansion and command history
-- Simple pipe execution and basic redirections (`>`, `>>`, `<`, '<<')
+- Simple pipe execution and basic redirections (`>`, `>>`, `<`, `<<`)
 - Error handling and proper usage messages
 
 ## Installation
@@ -19,11 +19,11 @@ Minishell is a simple UNIX command interpreter written in C that replicates the 
 git clone https://github.com/FInacio97/minishell minishell
 cd minishell
 make
-
+```
 ## Run
-
+```
 ./minishell
-
+```
 ## Authors
 
 Rafa - https://github.com/rafaelva-z
