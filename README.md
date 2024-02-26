@@ -2,7 +2,7 @@
 
 ## Description
 
-Minishell is a simple UNIX command interpreter written in C that replicates the basic functionalities of a traditional shell, being bash this project main inspiration, This project is part of the 42 network curriculum, designed to deepen understanding of system calls, process creation, and manipulation, as well as the environments of a UNIX-like system.
+Minishell is a simple UNIX command interpreter written in C that replicates the basic functionalities of a traditional shell, using Bash as main source of inspiration, This project is part of the 42 network curriculum, designed to deepen understanding of system calls, process creation, and manipulation, as well as the environments of a UNIX-like system.
 
 ## Features
 
